@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="textView_medium_grey_normal_medium">
+        <item name="android:textColor">@color/colorGreyLight</item>
+        <item name="android:textSize">@dimen/textSizeMedium</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="textView_medium_grey_normal_large">
+        <item name="android:textColor">@color/colorGreyLight</item>
+        <item name="android:textSize">@dimen/textSizeLarge</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="textView_medium_grey_normal_xlarge">
+        <item name="android:textColor">@color/colorGreyLight</item>
+        <item name="android:textSize">@dimen/textSizeExtraLarge</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="textView_dark_grey_normal_small">
+        <item name="android:textColor">@color/colorGrey</item>
+        <item name="android:textSize">@dimen/textSizeSmall</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="textView_dark_grey_normal_medium">
+        <item name="android:textColor">@color/colorGrey</item>
+        <item name="android:textSize">@dimen/textSizeMedium</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="textView_dark_grey_normal_large">
+        <item name="android:textColor">@color/colorGrey</item>
+        <item name="android:textSize">@dimen/textSizeLarge</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="textView_dark_grey_normal_xlarge">
+        <item name="android:textColor">@color/colorGrey</item>
+        <item name="android:textSize">@dimen/textSizeExtraLarge</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="textView_medium_grey_bold_small">
+        <item name="android:textColor">@color/colorGreyLight</item>
+        <item name="android:textSize">@dimen/textSizeSmall</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="textView_medium_grey_bold_medium">
+        <item name="android:textColor">@color/colorGreyLight</item>
+        <item name="android:textSize">@dimen/textSizeMedium</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="textView_medium_grey_bold_large">
+        <item name="android:textColor">@color/colorGreyLight</item>
+        <item name="android:textSize">@dimen/textSizeLarge</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="textView_medium_grey_bold_xlarge">
+        <item name="android:textColor">@color/colorGreyLight</item>
+        <item name="android:textSize">@dimen/textSizeExtraLarge</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="textView_dark_grey_bold_small">
+        <item name="android:textColor">@color/colorGrey</item>
+        <item name="android:textSize">@dimen/textSizeSmall</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="textView_dark_grey_bold_medium">
+        <item name="android:textColor">@color/colorGrey</item>
+        <item name="android:textSize">@dimen/textSizeMedium</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="textView_dark_grey_bold_large">
+        <item name="android:textColor">@color/colorGrey</item>
+        <item name="android:textSize">@dimen/textSizeLarge</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="textView_dark_grey_bold_xlarge">
+        <item name="android:textColor">@color/colorGrey</item>
+        <item name="android:textSize">@dimen/textSizeExtraLarge</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+</resources>
